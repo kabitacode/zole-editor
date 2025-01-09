@@ -1,0 +1,1 @@
+export type IconTypeMenu = "cursor" | "eraser" | "pen" | null;
